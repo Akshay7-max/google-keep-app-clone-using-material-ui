@@ -1,13 +1,13 @@
 {
-  "main.css": "/google-keep-app-clone-using-material-ui/static/css/main.82a76c8e.chunk.css",
-  "main.js": "/google-keep-app-clone-using-material-ui/static/js/main.9ceeb58b.chunk.js",
-  "main.js.map": "/google-keep-app-clone-using-material-ui/static/js/main.9ceeb58b.chunk.js.map",
-  "static/js/1.44517302.chunk.js": "/google-keep-app-clone-using-material-ui/static/js/1.44517302.chunk.js",
-  "static/js/1.44517302.chunk.js.map": "/google-keep-app-clone-using-material-ui/static/js/1.44517302.chunk.js.map",
-  "runtime~main.js": "/google-keep-app-clone-using-material-ui/static/js/runtime~main.b00a2034.js",
-  "runtime~main.js.map": "/google-keep-app-clone-using-material-ui/static/js/runtime~main.b00a2034.js.map",
-  "static/css/main.82a76c8e.chunk.css.map": "/google-keep-app-clone-using-material-ui/static/css/main.82a76c8e.chunk.css.map",
-  "index.html": "/google-keep-app-clone-using-material-ui/index.html",
-  "precache-manifest.668cb2f8e0132cd3631464f2310e6314.js": "/google-keep-app-clone-using-material-ui/precache-manifest.668cb2f8e0132cd3631464f2310e6314.js",
-  "service-worker.js": "/google-keep-app-clone-using-material-ui/service-worker.js"
+  "files": {
+    "main.css": "/google-keep-app-clone-using-material-ui/static/css/main.cd9689e9.css",
+    "main.js": "/google-keep-app-clone-using-material-ui/static/js/main.b060993c.js",
+    "index.html": "/google-keep-app-clone-using-material-ui/index.html",
+    "main.cd9689e9.css.map": "/google-keep-app-clone-using-material-ui/static/css/main.cd9689e9.css.map",
+    "main.b060993c.js.map": "/google-keep-app-clone-using-material-ui/static/js/main.b060993c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd9689e9.css",
+    "static/js/main.b060993c.js"
+  ]
 }
